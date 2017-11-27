@@ -5,31 +5,31 @@ MTA 官方CocoaPods Spec镜像
 ### 基础统计功能
 Podfile 中添加
 ```
-pod 'MTA'
+pod 'QQ_MTA'
 ```
 
 ### 可视化埋点功能
 Podfile 中添加
 ```
-pod 'MTA/AutoTrack'
+pod 'QQ_MTA/AutoTrack'
 ```
 
 ### H5 App 混合统计功能
 Podfile 中添加
 ```
-pod 'MTA/Hybrid'
+pod 'QQ_MTA/Hybrid'
 ```
 
 ### Idfa 统计
 Podfile 中添加
 ```
-pod 'MTA/Idfa'
+pod 'QQ_MTA/Idfa'
 ```
 
 ### 安装来源分析
 Podfile 中添加
 ```
-pod 'MTA/InstallTracker'
+pod 'QQ_MTA/InstallTracker'
 ```
 
 ## 更新日志
